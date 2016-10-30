@@ -1,2 +1,2 @@
 # code_showcase
-a sample of some of my coding projects
+a sample of my coding projects
