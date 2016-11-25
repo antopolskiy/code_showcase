@@ -1,5 +1,5 @@
 # Overview
-This is a sample of my data analysis/coding project. Some are related to my work, others I persue in my free time out.
+This is a sample of my data analysis/coding project.
 
 # Projections description
 ### Rat behavior: mixed trial analysis ([go to project notebook](https://github.com/antopolskiy/code_showcase/blob/master/rat_behavior_mixed_trials_analysis.ipynb))
@@ -10,7 +10,7 @@ The stimuli presented to the rats are noisy vibrations (white noise bandpass fil
 
 ![Creation of the stimuli](stim_creation.png)
 
-In this project, rats were trained to discriminate 2-second-long noisy stimuli: 5 Hz modulated (must go right to get reward) and 1 Hz modulated (must go left to get reward). At the point of interest for this project, rats reliably discriminated these stimuli with the performance above 70%. What we wanted to test is which part of the stimulus rats give weight in their decision, if any. We designed new type of stimuli, mixed stimuli, which were composed of one modulation frequency in the 1st second and another in the 2nd second. For example, in the 1st second there would be 1 Hz modlation, in the 2nd second -- 5 Hz modulation. Or the order could be reversed. In any case, after receiving such stimulus, the rat could go either left or right and still receive the reward. Mixed stimuli were randomly and quite rarely presented in course of the session, roughly every 15th trial. What choice would the animals make on these trials? How these choices correspond to the performance on the normal trials? These are the questions I try to find answers to in this little project.
+In this project, rats were trained to discriminate 2-second-long noisy stimuli: 5 Hz modulated (must go right to get reward) and 1 Hz modulated (must go left to get reward). At the point of interest for this project, rats reliably discriminated these stimuli with the performance above 70%. What we wanted to test is which part of the stimulus rats give weight in their decision, if any. We designed new type of stimuli, mixed stimuli, which were composed of one modulation frequency in the 1st second and another in the 2nd second. For example, in the 1st second there would be 1 Hz modulation, in the 2nd second -- 5 Hz modulation. Or the order could be reversed. In any case, after receiving such stimulus, the rat could go either left or right and still receive the reward. Mixed stimuli were randomly and quite rarely presented in course of the session, roughly every 15th trial. What choice would the animals make on these trials? How these choices correspond to the performance on the normal trials? These are the questions I try to find answers to in this little project.
 
 ### Motor tracking ([go to project notebook](https://github.com/antopolskiy/code_showcase/blob/master/motor_tracking.ipynb))
 
