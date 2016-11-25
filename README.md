@@ -1,7 +1,7 @@
 # Overview
 This is a sample of my data analysis/coding projects.
 
-# Projections description
+# Projects description
 ### Rat behavior: mixed trial analysis ([go to project notebook](https://github.com/antopolskiy/code_showcase/blob/master/rat_behavior_mixed_trials_analysis.ipynb))
 
 This piece of code analyses behavioral data from a rat experiment. The rat is trained to discriminate vibrations, which are applied to the whiskers. After receiving the stimulus, the animal can make one of two exclusive choices: attempt to drink from the left water well (further denoted as "go left") or attempt to drink from the right water well (further denoted as "go right"). If the decision is correct (which is determined by a rule binding a certain type of stimulus to a certain side, more on that below), the rat receives a reward in a form of water. If the decision was incorrect, nothing happens. In any case, the rat is free to receive the next stimulus, and thus the process repeats. On average, rats make around 200-300 such attempts ("trials") in ~1 hour, before they are satiated and ready to be put back in their home cage.
