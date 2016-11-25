@@ -1,5 +1,5 @@
 # Overview
-This is a sample of my data analysis/coding project.
+This is a sample of my data analysis/coding projects.
 
 # Projections description
 ### Rat behavior: mixed trial analysis ([go to project notebook](https://github.com/antopolskiy/code_showcase/blob/master/rat_behavior_mixed_trials_analysis.ipynb))
